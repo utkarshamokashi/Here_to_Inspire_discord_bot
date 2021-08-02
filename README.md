@@ -12,5 +12,4 @@ Bot commands documentation:
 
 Motivational lines can be viewed, added, deleted by anyone from any server and they are stored in the databse and can be printed sometimes when the responding is set to true  
 
-Link to invite my bot to your server: https://discord.com/api/oauth2/authorize?client_id=871719970646659072&permissions=122406627392&scope=bot  
 This is a very basic bot.
