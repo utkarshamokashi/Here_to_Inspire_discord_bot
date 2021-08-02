@@ -12,4 +12,4 @@ Bot commands documentation:
 
 Motivational lines can be viewed, added, deleted by anyone from any server and they are stored in the databse and can be printed sometimes when the responding is set to true  
 
-This is a very basic bot.
+This is a very basic bot.  
